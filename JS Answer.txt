@@ -1,0 +1,13 @@
+
+
+Que1: Ans -> To add a External Js file we Use script tag in head 
+or just before body closing tag and add attribute src 
+where we give the path of external Js file 
+
+example : <script src ="path of the file"> < /script>
+
+if we use this inside head we use defer or async attribute on it .
+
+
+Que2 :Ans ->  style.color
+
